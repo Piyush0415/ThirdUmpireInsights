@@ -11,4 +11,17 @@ To solve this problem, I built **Third Umpire Insights**, a Power BI dashboard p
 - GitHub – Version control & project documentation
 ## 🎯 Objectives
 To transform raw cricket match data into actionable insights through automated data engineering and interactive visual analytics, enabling users to make data-driven assessments of player and team performances.
+## 📷 Dashboard Preview
 ## 📊 Key KPIs
+📊 Match Summary & Result Analysis  
+🏏 Batting Performance Insights  
+🎯 Bowling Performance Analysis  
+🤝 Partnership Analysis  
+🏆 Man of the Match  
+## 📌 Conclusion
+Third Umpire Insights helps umpires and analysts quickly identify key player performances, match trends, and game-changing moments through a single interactive dashboard, enabling faster and more informed decision-making. 📊🏏
+## 🤝 Connect With Me
+👤 Piyush Agarwal  
+Associate Data Scientist | SQL | Python | Power BI | Data Analytics  
+Linkedin : www.linkedin.com/in/piyush-agarwal-1a93003a1  
+Portfolio : https://dashefy.vercel.app/
