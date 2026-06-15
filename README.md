@@ -1,4 +1,4 @@
-# Third Umpire Insights — Turning Every Ball into a Data Story. 🏏📈
+# Third Umpire Insights — Every Match, Decoded. 🏏📊
 ## About
 Last weekend, I attended an exciting cricket match between Ireland and the USA. As the match progressed, I noticed how difficult it was for analysts to quickly evaluate player performances using scattered scorecards and statistics. Identifying key contributors and match-winning moments required significant manual analysis.
 
@@ -18,8 +18,13 @@ To transform raw cricket match data into actionable insights through automated d
 🎯 Bowling Performance Analysis  
 🤝 Partnership Analysis  
 🏆 Man of the Match  
+## ⚙️ Data Engineering Pipeline
+- Data Extraction: Cricket match data collected through REST APIs.
+- Data Transformation: Python-based ETL processes for cleaning, validating, and structuring raw data.
+- Data Loading: Processed datasets loaded into Power BI for analysis and visualization.
+- Automation: In Progress.. 
 ## 📌 Conclusion
-Third Umpire Insights helps umpires and analysts quickly identify key player performances, match trends, and game-changing moments through a single interactive dashboard, enabling faster and more informed decision-making. 📊🏏
+Third Umpire Insights helps umpires and analysts quickly identify key player performances, match trends, and game-changing moments through a single interactive dashboard, enabling faster and more informed decision-making. 📊
 ## 🤝 Connect With Me
 👤 Piyush Agarwal  
 Associate Data Scientist | SQL | Python | Power BI | Data Analytics  
