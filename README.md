@@ -12,7 +12,7 @@ To solve this problem, I built **Third Umpire Insights**, a Power BI dashboard p
 ## 🎯 Objectives
 To transform raw cricket match data into actionable insights through automated data engineering and interactive visual analytics, enabling users to make data-driven assessments of player and team performances.
 ## 📷 Dashboard Preview
-![image Alt](https://github.com/Piyush0415/ThirdUmpireInsights/blob/main/Dashboard%20Snapshot.png)
+![image Alt](https://github.com/Piyush0415/ThirdUmpireInsights/blob/main/insights_dashboard.png)
 ## 📊 Key KPIs
 📊 Match Summary & Result Analysis  
 🏏 Batting Performance Insights  
